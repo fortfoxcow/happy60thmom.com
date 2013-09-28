@@ -1,0 +1,42 @@
+body {
+  background: url("background.png") no-repeat center top fixed;
+}
+
+#container {
+	margin: 1em auto;
+	width: 600px;
+	font-family: courier;
+	text-align: center;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 34pt;
+}
+
+h2{
+	font-weight: 500;
+	font-size: 12pt;
+}
+
+h3 {
+	text-transform: uppercase;
+	font-size: 14pt;
+	color: #fff;
+	background-color: #000;
+	font-weight: 300;
+}
+
+td.number {
+	padding-left: 10px;
+	font-size: 50pt;
+	text-align: left;
+}
+
+td {
+	font-size: 12pt;
+	padding-left: 20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: left;
+}
